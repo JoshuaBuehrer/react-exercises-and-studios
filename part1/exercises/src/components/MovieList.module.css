@@ -1,7 +1,12 @@
 .movieText {
-   color: black;
+   color:coral;
+   font-size: 1.3vw;
+   text-align: left;
+   background-color: burlywood;
 }
 
 .movieHeading {
-   color: black;
+   color:darkgoldenrod;
+   text-align: left;
+   font-size: 2.0vw;
 }
